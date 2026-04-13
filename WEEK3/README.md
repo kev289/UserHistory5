@@ -44,3 +44,7 @@ npm run dev
 Vite, React, TypeScript, CSS
 
 
+## Notas 
+
+Historia de usuario enfocada en la reutilizacion de componentes y la creacion de interfaces reutilizables.
+
